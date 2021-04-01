@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<manifest package="com.example.worldtimeapp" xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- Flutter needs it to communicate with the running applicationto allow setting breakpoints, to provide hot reload, etc. -->
+
+
+<uses-permission android:name="android.permission.INTERNET"/>
+
+</manifest>
